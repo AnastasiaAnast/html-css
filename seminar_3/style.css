@@ -1,0 +1,141 @@
+body {
+    /* слой фигмы - Rectangle 53*/
+    /* width: 1921px;
+  height: 1030px;
+  flex-shrink: 0;
+  border-radius: 10px;
+  opacity: 0.10000000149011612;
+    background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.2) 0%,
+    rgba(255, 255, 255, 0.4) 100%
+  ); */
+    background-color: #020a18;
+    /* backdrop-filter: blur(100px); */
+}
+
+.header {
+    width: 1920px;
+    height: 100px;
+    flex-shrink: 0;
+}
+
+.group_link_menu {
+    width: 411px;
+    height: 22px;
+    flex-shrink: 0;
+}
+
+.menu_style {
+    text-decoration: none;
+    color: var(--ffffff, #fff);
+    /* font-family: Open Sans; */
+    /* font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal; */
+}
+
+.main_body {
+    text-decoration: none;
+    width: 1146px;
+    height: 415px;
+    flex-shrink: 0;
+}
+
+.next_gen_pl {
+    color: var(--3-a-68-b-8, #3a68b8);
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 160%;
+    /* 28.8px */
+    text-transform: uppercase;
+    width: 265px;
+    text-decoration: none;
+}
+
+.art_int_syb_sec {
+    width: 604px;
+    color: var(--ffffff, #fff);
+    font-family: Open Sans;
+    font-size: 55px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 130%;
+    /* 71.5px */
+}
+
+.p_index {
+    width: 558px;
+    color: var(--ffffff, #fff);
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 160%;
+    /* 28.8px */
+}
+
+.div_button_main {
+    display: inline-flex;
+    width: 408px;
+    height: 57px;
+    flex-shrink: 0;
+    gap: 10px;
+}
+
+.button_main {
+    border-radius: 5px;
+    background: var(--3-a-68-b-8, #3a68b8);
+    display: inline-flex;
+    padding: 15px 30px;
+    align-items: flex-start;
+    text-align: center;
+    gap: 10px;
+}
+
+.img_play {
+    /* width: 27px;
+    height: 26px;
+    fill: var(--ffffff, #fff); */
+    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="25" viewBox="0 0 20 25" fill="none"><path d="M20 12.5L0.500001 24.1913L0.500002 0.808657L20 12.5Z" fill="white"/></svg>
+}
+
+.img_rocket {
+    width: 414px;
+    height: 415px;
+    flex-shrink: 0;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+
+.footer {
+    width: 1146.449px;
+    height: 59px;
+    flex-shrink: 0;
+}
+
+.img_logo_1 {
+    width: 294.449px;
+    height: 59px;
+    flex-shrink: 0;
+}
+
+.img_logo_2 {
+    width: 206.905px;
+    height: 59px;
+    flex-shrink: 0;
+}
+
+.img_logo_3 {
+    width: 212.299px;
+    height: 59px;
+    flex-shrink: 0;
+}
+
+.img_logo_4 {
+    width: 217.644px;
+    height: 58.903px;
+    flex-shrink: 0;
+}
