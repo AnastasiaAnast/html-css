@@ -1,3 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 body {
     /* слой фигмы - Rectangle 53*/
     /* width: 1921px;
@@ -21,6 +26,7 @@ body {
 }
 
 .group_link_menu {
+    /* тоже header*/
     width: 411px;
     height: 22px;
     flex-shrink: 0;
@@ -36,7 +42,7 @@ body {
   line-height: normal; */
 }
 
-.main_body {
+.top_content {
     text-decoration: none;
     width: 1146px;
     height: 415px;
@@ -78,7 +84,7 @@ body {
     /* 28.8px */
 }
 
-.div_button_main {
+.top_buttons {
     display: inline-flex;
     width: 408px;
     height: 57px;
